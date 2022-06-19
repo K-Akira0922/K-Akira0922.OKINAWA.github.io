@@ -1,0 +1,51 @@
+body {
+  padding-top:54px;
+  background-image: url("img/63386399-かわいい沖縄風イラスト。.webp");
+}
+
+.bg-img {
+  height: 450px;
+  margin-bottom: 0px;
+  background-image: url("img/hero.jpg");
+  background-size: cover;
+  background-position: center 40%;
+}
+
+h1 {
+  font-size: 110px;
+  margin-top: 100px;
+  margin-bottom: 60px;
+  color: rgb(24, 24, 41);
+}
+
+h2 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+
+.contents {
+  margin: 60px 100px auto;
+}
+
+.accordion-button {
+  background-color: rgba(48, 184, 202, 0.6);
+}
+
+button {
+  background-color: rgba(48, 184, 202, 0.6);
+  
+}
+
+.accordion-item {
+  background-color: rgba(48, 184, 202, 0.6);
+  
+}
+
+.card {
+  background-color: rgba(218, 223, 231, 0.7);
+}
+
+footer {
+  opacity: .5;
+}
